@@ -16,6 +16,7 @@ public class Main {
             System.out.println("AJOUT DE MAXIME");
             System.out.println("AJOUT DE MAXIMEAJOUT DE MAXIMEAJOUT DE MAXIME");
             System.out.println("conflit");
+            System.out.println("CORRECTION conflit");
         }
     }
 }
