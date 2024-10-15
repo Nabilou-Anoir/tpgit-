@@ -15,6 +15,7 @@ public class Main {
             System.out.println("grosse");
             System.out.println("AJOUT DE MAXIME");
             System.out.println("AJOUT DE MAXIMEAJOUT DE MAXIMEAJOUT DE MAXIME");
+            System.out.println("conflit");
         }
     }
 }
